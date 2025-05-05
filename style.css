@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.pirveli{
+   
+    margin: 50px 200px;
+    padding: 50px ;
+    font-size: 22px;
+    text-align: justify
+    
+    
+    
+    
+    
+    ;
+    width: 600px;
+    
+}
+.meoremxare{
+   background-color: aquamarine; 
+   width: 600px;
+   height: 900px;
+   padding: 50px;
+   border: 13px double #000000;
+}
+body{
+    background-image: url(5096b3f3-0cb6-4c23-a820-0a18a817ca86-2020-08-29_Luka_Doncic.webp);
+    background-repeat: no-repeat;
+    background-size:100% ;
+}
+.wre{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 0, 0);
+    margin: 50px auto;
+    border-radius: 50%;
+}
